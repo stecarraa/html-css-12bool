@@ -9,6 +9,10 @@ body{
     line-height: 40px;
  }
 
+ .bg-active{
+    background-color: green;
+ }
+
  .row{
      min-height: 30px;
  }
