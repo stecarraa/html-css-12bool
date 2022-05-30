@@ -1,0 +1,12 @@
+body{
+    background-color: lightslategray;
+ }
+ 
+ [class*="col-"], .col{
+    color: white;
+    border: 1px solid white;
+ }
+ .row{
+    background-color: lightsalmon;
+    border: 1px solid red;
+ }
