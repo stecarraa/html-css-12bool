@@ -1,12 +1,14 @@
 body{
-    background-color: lightslategray;
  }
  
  [class*="col-"], .col{
     color: white;
     border: 1px solid white;
+    background-color: rgb(18, 82, 219);
+    min-height: 40px;
+    line-height: 40px;
  }
+
  .row{
-    background-color: lightsalmon;
-    border: 1px solid red;
+     min-height: 30px;
  }
